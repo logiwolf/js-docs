@@ -1,5 +1,7 @@
 # js-docs
-this is a js notes from i have learned
+This document is all about JavaScript, and this is all you need to become a JavaScript developer. 
+
+Note: This document will be updated frequently, and new materials will be added continuously.
 
 ### github markup link
 [GitHub markup link : the link to the next,  show how to makeup github readme file] (https://markdown-it.github.io/)
